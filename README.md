@@ -55,8 +55,7 @@ Run Locally
 
 Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/krishi-mitra-ai.git
-cd krishi-mitra-ai
+git clone https://shaik-fouzan.github.io/Krishi-mitra-ai/
 
 Replace "YOUR-USERNAME" with your GitHub username.
 
