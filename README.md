@@ -75,13 +75,19 @@ This is an example structure. Keep the actual CSS and JavaScript filenames used 
 
 Screenshots of the working website can be added here to demonstrate its interface and features.
 
-Suggested screenshots:
+📸 Screenshots
 
-- Home page
-- Crop advisor interface
-- Plant image preview
+Home Page
 
-Upload your screenshots to a "screenshots" folder and link them here once available.
+"Krishi Mitra AI Home Page" (https://github.com/shaik-fouzan/Krishi-mitra-ai/blob/main/IMG_20261021_005452.jpg)
+
+Crop Advisor
+
+"Krishi Mitra AI Crop Advisor" (https://github.com/shaik-fouzan/Krishi-mitra-ai/blob/main/IMG_20261021_005504.jpg)
+
+Plant Image Preview
+
+"Krishi Mitra AI Plant Image Preview" (https://github.com/shaik-fouzan/Krishi-mitra-ai/blob/main/IMG_20261021_005516.jpg)
 
 🔮 Future Improvements
 
