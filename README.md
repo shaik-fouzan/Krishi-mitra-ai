@@ -4,7 +4,7 @@ Smart Agricultural Assistance for Farmers
 
 Krishi Mitra AI is a web-based agricultural assistance prototype designed to make useful farming information more accessible to farmers. It aims to support smarter agricultural decisions through a simple interface, crop advisory features, and regional language accessibility.
 
-🌐 Live Website: "Open Krishi Mitra AI" (https://github.com/YOUR-USERNAME/krishi-mitra-ai.git)
+🌐 Live Website: "Open Krishi Mitra AI" (https://shaik-fouzan.github.io/Krishi-mitra-ai/)
 
 📌 Project Overview
 
